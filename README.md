@@ -66,7 +66,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/gaganmanku96/Finding-missing-person-using-AI.git
+   git clone https://github.com/lavipawar4/findme.git
    cd Finding-missing-person-using-AI
    pip install -r requirements.txt
    ```
